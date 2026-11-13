@@ -1,0 +1,26 @@
+# Build outputs
+/build/
+/out/
+/bin/
+*.o
+*.obj
+*.exe
+*.out
+*.class
+*.pdb
+*.ilk
+*.dSYM/
+a.out
+
+# Local editor and OS files
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+
+# Local configuration and original export archives
+.env
+.env.*
+!.env.example
+/*.zip
